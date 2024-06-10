@@ -9,7 +9,7 @@ public class Pattern {
 		{
 			for(int l=4 ;l>i;l--)
 			{
-				System.out.print(" ");
+				System.out.print("  ");
 			}
 			for(int j =0;j<2*i+1;j++)
 			{
@@ -17,7 +17,7 @@ public class Pattern {
 			}
 			for(int m=4 ;m>i;m--)
 			{
-				System.out.print(" ");
+				System.out.print("  ");
 			}
 			System.out.println(" ");
 		}
